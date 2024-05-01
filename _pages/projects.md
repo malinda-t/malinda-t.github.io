@@ -2,12 +2,14 @@
 layout: page
 title: passion projects
 permalink: /projects/
-description: A collection of fun projects.
+description: 
 nav: true
-nav_order: 3
-display_categories: [fun, work]
-horizontal: false
+nav_order: 1
+display_categories: [work, fun]
+horizontal: true
 ---
+
+A growing collection of cool projects i've done for [Work](#work) or [Fun](#fun).
 
 <!-- pages/projects.md -->
 <div class="projects">
